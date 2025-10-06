@@ -2,6 +2,9 @@
 
 Named after the Pandora's Box in-game cosmetic for Counter-Strike: Global Offensive, Pandora is a striking dark theme with vibrant colors that are still easy on the eyes.
 
+
+**The theme currently does not have a Neovim theme. If anyone has any recommendations, please share!**
+
 ## Screenshot
 
 <p align="center">
