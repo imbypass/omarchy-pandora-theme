@@ -1,3 +1,10 @@
+/*
+    This is the set of colors for the base16-discord.pywal theme.
+    https://github.com/imbypass/base16-discord
+
+    Hoping to get it implemented into Tema, Aether, and eventually Omarchy itself.
+*/
+
 :root {
     --background: #0a0a0c;
     --text: #c2c2c5;
